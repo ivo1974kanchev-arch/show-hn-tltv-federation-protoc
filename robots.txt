@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://show-47qffv79p-ivo1974kanchev-3737s-projects.vercel.app/sitemap.xml
